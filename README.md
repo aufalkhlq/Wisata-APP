@@ -3,6 +3,5 @@
 Developed by:
 
 - Moh Aufal Kholqi (3.34.21.0.15)
-![my image]("C:\Users\ASUS\Downloads\112.png")
-<img src="https://user-images.githubusercontent.com/92832439/199500528-248441ab-210d-4f4a-911f-8922f29881ae.png" height="400">
-<img src="https://user-images.githubusercontent.com/92832439/199500533-0851dde8-e9ae-46c5-ae8c-e0541f6aba8a.png" height="400">
+<img width="947" alt="111" src="https://user-images.githubusercontent.com/46641554/211213148-2f5a6b78-bc81-4b2b-90b7-7200ae6eb3fe.png">
+<img width="948" alt="112" src="https://user-images.githubusercontent.com/46641554/211213152-bba801fb-6fb5-49ea-b545-ae8f283f7479.png">
